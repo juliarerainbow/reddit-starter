@@ -1,0 +1,16 @@
+## reddit viewer:
+
+* all'avvio (se non ho mai visitato il sito) presenterà la dialog di selezione dei subreddit dove potrò scegliere tra una decina di subreddit (obbligatorio almeno uno).
+* la pagina principale mostrerà toolbar con un bottone per ogni subreddit selezionato ch permetterà di sceglire quali post vedere.
+* tasto + che permette di riaprire la dialog e aggiungere/cambiare i subreddit
+* farlo bello!!!
+
+
+### funzionalità aggiuntive
+
+* aggiungere alla dialog la possibilità di aggiungere subreddit non previsti nella lista tramite un input di tipo testo;
+* aggiungere la possibilità di cambiare tra (new, hot, top);
+
+### super task
+* gestire la paginazione
+* trasformare la app in un gestore di rss
